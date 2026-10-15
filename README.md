@@ -27,4 +27,4 @@ My work has grown from learning how to build features to thinking about how a sy
 - Treat tests, documentation and operability as part of delivery.
 - Leave decisions clear enough for the next engineer to challenge or extend.
 
-These repositories are a record of learning and experimentation. They show different stages of my approach, rather than a claim that every project is production-ready.
+Earlier projects remain here as a record of learning; the selected work highlights how my approach continues to develop.
